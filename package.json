@@ -2,7 +2,7 @@
   "name": "react-shop",
   "version": "1.0.0",
   "description": "react e-shop",
-  "main": "src/index.js",
+  "main": ".src/index.js",
   "homepage": "https://juli6464.github.io/my-react-store/",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
